@@ -1,8 +1,8 @@
-name = "edgetunnel"
+name = "beipiao-panel"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
 
 [[kv_namespaces]]
 binding = "KV"
-id = "11028da75ffc4307bed28d65bfcd6b55"
+id = "110882581a7a4137bbdf56ede9e1e26a"
